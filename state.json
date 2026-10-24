@@ -16202,6 +16202,28 @@
    "year": 2026
   }
  },
+ "LOC7187": {
+  "checked": "2026-10-24T04:51:57+00:00",
+  "include": false,
+  "pub": "2026-10-24T04:51:57.052104+00:00",
+  "reason": "Sprache es (tagged)",
+  "record": {
+   "blurb": "En esta charla, Silamani explora el linaje de la responsabilidad en la tradici&oacute;n Triratna, definido por Sanghar&aacute;kshita como la estructura de cuidado, gesti&oacute;n y gobernanza esencial para la supervivencia del movimiento. Lejos de ser una simple tarea administrativa o burocr&aacute;tica, asumir roles de liderazgo &mdash;como la gerencia de un centro o la coordinaci&oacute;n de mitras&mdash; se concibe como una oportunidad de transformaci&oacute;n y pr&aacute;ctica espiritual profunda. Silamani detalla que este linaje se sustenta en tres principios b&aacute;sicos: el compromiso espiritual de quienes gestionan, la toma de decisiones por consenso basada en el &quot;modo amor&quot; frente a la imposici&oacute;n del &quot;modo poder&quot;, y la ausencia de estatus privilegiados. As&iacute;, actividades cotidianas como mantener las instalaciones o gestionar recursos se convierten en un servicio altruista que ayuda a disolver el egocentrismo, fomenta la generosidad y fortalece la creaci&oacute;n de una comunidad espiritual viva para las futuras generaciones.",
+   "cat_num": "LOC7187",
+   "centre": "Valencia",
+   "image": "/m/2QztKOl9sMXA.jpg",
+   "speaker": "Silamani",
+   "title": "El linaje de la responsabilidad",
+   "tracks": [
+    {
+     "duration": 1697,
+     "title": "El Linaje De La Responsabilidad",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/f/h/kbnF4Aet9V8H.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC721": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
