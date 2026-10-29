@@ -16224,6 +16224,50 @@
    "year": 2026
   }
  },
+ "LOC7188": {
+  "checked": "2026-10-29T05:05:28+00:00",
+  "include": false,
+  "pub": "2026-10-29T05:05:28.156993+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "During an ordination retreat in the context of the four gifts, we see how both the Four Gifts and the Triratna ordination ceremony encapsulate the crux of Sangharakshita&#039;s teaching. \r\n\r\nIn the second talk (on a Nucleus of a New Society / Blueprint for a New World) we explore how Sangharakshita&#039;s gifts of the Shepherds Round Dance and the Garden Planted in the Wilderness are as relevant today as they ever were, and how they are expressed in the life of the Order.",
+   "cat_num": "LOC7188",
+   "centre": "Tiratanaloka Retreat Centre",
+   "image": "/m/40h7qliH3CeJ.jpg",
+   "speaker": "Kalyacitta",
+   "title": "The Four Gifts and the Public Ordination",
+   "tracks": [
+    {
+     "duration": 3003,
+     "title": "The Four Gifts and the Public Ordination",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/h/b/hanTC1UMeoZZ.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7189": {
+  "checked": "2026-10-29T05:05:28+00:00",
+  "include": false,
+  "pub": "2026-10-29T05:05:28.156993+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "During an Ordination retreat in the context of the Four Gifts, we see how both the Four Gifts and the Triratna Ordination ceremony encapsulate the crux of Sangharakshita&#039;s teaching. \r\n\r\nIn this first talk (on A Method for Personal Development and A Vision of Human Existence), Subhadramati explores the gifts of the Lotus-Flower and the Golden Net in relation to the private ordination and The Odyssey.",
+   "cat_num": "LOC7189",
+   "centre": "Tiratanaloka Retreat Centre",
+   "image": "/images/people/subhadramati.jpg",
+   "speaker": "Subhadramati",
+   "title": "The Four Gifts and the Private Ordination",
+   "tracks": [
+    {
+     "duration": 2931,
+     "title": "The Four Gifts and the Private Ordination",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/l/d/l2wWRbQwkByv.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC721": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
