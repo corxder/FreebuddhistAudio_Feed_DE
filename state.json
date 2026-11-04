@@ -16268,6 +16268,28 @@
    "year": 2026
   }
  },
+ "LOC7190": {
+  "checked": "2026-11-04T05:19:53+00:00",
+  "include": false,
+  "pub": "2026-11-04T05:19:53.143778+00:00",
+  "reason": "Sprache sv (tagged)",
+  "record": {
+   "blurb": "M&aring;ndagen den 26 oktober firade vi 20-&aring;rsjubileum av Dharmagiri, v&aring;rt retreatcenter 3 mil norr om Sala, p&aring; Stockholms Buddhistcenter. Viryabodhi knyter an till ett f&ouml;rdrag han gav 2023 (Bakgrunden till Dharmagiri, som ocks&aring; finns p&aring; freebuddhistaudio) under en temakv&auml;ll f&ouml;r Dharmagiri, och fyller sedan i andra detaljer.",
+   "cat_num": "LOC7190",
+   "centre": "Stockholm",
+   "image": "/m/efsePFCCDdqz.jpg",
+   "speaker": "Viryabodhi",
+   "title": "Dharmagiri 20 år",
+   "tracks": [
+    {
+     "duration": 1088,
+     "title": "Dharmagiri 20 år",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/n/l/Kt5eZrUXd4uT.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC721": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
