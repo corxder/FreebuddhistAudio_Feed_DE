@@ -16290,6 +16290,28 @@
    "year": 2026
   }
  },
+ "LOC7191": {
+  "checked": "2026-11-05T05:20:11+00:00",
+  "include": false,
+  "pub": "2026-11-05T05:20:11.683500+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "Wykład Vidyatary odbył się 26 sierpnia 2026 roku w Warszawskim Centrum Buddyjskim z okazji 101. rocznicy urodzin Sangharakszity. Na język polski przetłumaczyła go Maja Skwarzec. Prelekcja porusza temat oddania w trzech wymiarach: pełnego inspiracji zaufania do Buddy, zaufania do Dharmy oraz zaufania do Sanghi. W tym kontekście Vidyatara &ndash; odwołując się do nauk Dudzioma Rinpocze &ndash; omawia trzy rodzaje wiary, a następnie przechodzi do pięciu władz duchowych, wskazując na ich przydatność, zwłaszcza dla os&oacute;b wychowanych w kręgu kultury zachodniej. Uwaga staje się tu pomostem łączącym wiarę z mądrością.",
+   "cat_num": "LOC7191",
+   "centre": "Krakow",
+   "image": "/images/people/vidyatara.jpg",
+   "speaker": "Vidyatara",
+   "title": "Attention Is the Beginning of Devotion",
+   "tracks": [
+    {
+     "duration": 2724,
+     "title": "Attention Is the Beginning of Devotion",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/b/l/GEsUxOk47985.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC721": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
