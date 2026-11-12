@@ -16386,6 +16386,94 @@
    "year": 2026
   }
  },
+ "LOC7198": {
+  "checked": "2026-11-12T05:22:00+00:00",
+  "include": false,
+  "pub": "2026-11-12T05:22:00.610836+00:00",
+  "reason": "Sprache en (default)",
+  "record": {
+   "blurb": "<!-- SUBHUTI: English -->\n<p>Speaking at the Pan American Convention, Subhuti reflects on the convention's image of the shepherds' round dance, one of the gifts in Bhante's poem <a href=\"https://thebuddhistcentre.com/stories/a-life-in-verse/the-four-gifts/\"><em>Four Gifts</em></a>. Drawing on childhood memories of Scottish country dancing, he describes giving ourselves fully to the dance while wanting everyone else to dance at their best, so that the more we are ourselves, the more we resonate with others. He then turns to the storm around the dance: power without principle, and what Bhante, in <a href=\"https://www.freebuddhistaudio.com/audio/details?num=162\"><em>Buddhism, World Peace, and Nuclear War</em></a>, calls the decay of the notion of objective truth.</p>\n<p>Subhuti explores this through the traditional teaching of the four Māras (Mṛtyumāra, Devaputramāra, Kleśamāra and Skandhamāra) and stresses studying the Dharma alongside meditation, since our experience is always shaped by saṃjñā, interpretation. Asking what such a small saṅgha can do in the face of these forces, he speaks of the joy that can arise when we come together, and of a third order of consciousness where values are shared, what Bhante called a coincidence of wills, through which our dance can echo through the world.</p>\n<hr>\n<!-- SUBHUTI: Español -->\n<p>Durante la Convención Panamericana, Subhuti reflexiona sobre la imagen de la convención, la danza en ronda de pastores, uno de los regalos del poema de Bhante <a href=\"https://thebuddhistcentre.com/stories/a-life-in-verse/the-four-gifts/\"><em>Four Gifts</em></a>. A partir de sus recuerdos de infancia bailando danzas tradicionales escocesas, describe cómo nos entregamos por completo al baile mientras deseamos que todos los demás bailen lo mejor posible, de modo que mientras más somos nosotros mismos, más resonamos con los demás. Después voltea hacia la tormenta que rodea el baile: el poder sin principios y lo que Bhante, en <a href=\"https://www.freebuddhistaudio.com/audio/details?num=162\"><em>Buddhism, World Peace, and Nuclear War</em></a>, llama el deterioro de la noción de verdad objetiva.</p>\n<p>Subhuti explora esto a través de la enseñanza tradicional de los cuatro Māras (Mṛtyumāra, Devaputramāra, Kleśamāra y Skandhamāra) y subraya la importancia de estudiar el Dharma además de meditar, ya que nuestra experiencia siempre está moldeada por saṃjñā, la interpretación. Ante la pregunta de qué puede hacer una saṅgha tan pequeña frente a estas fuerzas, habla de la alegría que puede surgir cuando nos reunimos y de un tercer orden de conciencia en el que los valores son compartidos, lo que Bhante llamó una coincidencia de voluntades, a través del cual nuestro baile puede resonar por todo el mundo.</p>\n",
+   "cat_num": "LOC7198",
+   "centre": "",
+   "image": "/m/OKSt7sgcGxBe.jpg",
+   "speaker": "Subhuti",
+   "title": "The Four Maras and the Order - Los Cuatro Maras y la Orden - Subhuti",
+   "tracks": [
+    {
+     "duration": 3633,
+     "title": "Project 1st",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/c/r/ZCCIS2jlcyCb.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7199": {
+  "checked": "2026-11-12T05:22:00+00:00",
+  "include": false,
+  "pub": "2026-11-12T05:22:00.610836+00:00",
+  "reason": "Sprache en (default)",
+  "record": {
+   "blurb": "<!-- SUDDHAYU: English -->\n<p>Suddhayu opens with a karaoke story to evoke the mixed feelings of being a US citizen at this time, and reflects on how nationality and conditioning shape our sense of individuality, a form of dukkha. He then turns to Bhante's <a href=\"https://www.freebuddhistaudio.com/audio/details?num=180\"><em>Fifteen Points for Old and New Order Members</em></a> and its reminder that we are citizens: to take an interest in local matters, bring a Buddhist vision to them, and stand confidently in our values when those of our societies are corrupted.</p>\n<p>Recalling how he found a home in the saṅgha at Aryaloka, Suddhayu explores the unity of the Order as a harmony of diversity, drawing on the parable of the medicinal herbs, the thousand-armed Avalokiteśvara and the <a href=\"https://suttacentral.net/mn32/en/sujato\"><em>Mahāgosiṅga Sutta</em></a>, in which each disciple says who could illumine the moonlit sāla wood and the Buddha affirms them all. Taking up Bhante's final point, to be heroic, he encourages us to support one another by contributing to the life of our local Order, and closes by asking what kind of Dharma-farer could illumine Valle de Bravo.</p>\n<hr>\n<!-- SUDDHAYU: Español -->\n<p>Suddhayu comienza con una anécdota de karaoke para evocar los sentimientos encontrados de ser ciudadano estadounidense en este momento, y reflexiona sobre cómo la nacionalidad y el condicionamiento moldean nuestro sentido de individualidad, una forma de dukkha. Luego retoma los <a href=\"https://www.freebuddhistaudio.com/audio/details?num=180\"><em>Fifteen Points for Old and New Order Members</em></a> de Bhante y su recordatorio de que somos ciudadanos: interesarnos en los asuntos locales, aportarles una visión budista y sostenernos con confianza en nuestros valores cuando los de nuestras sociedades se corrompen.</p>\n<p>Recordando cómo encontró un hogar en la saṅgha en Aryaloka, Suddhayu explora la unidad de la Orden como una armonía de la diversidad, apoyándose en la parábola de las hierbas medicinales, el Avalokiteśvara de mil brazos y el <a href=\"https://suttacentral.net/mn32/en/sujato\"><em>Mahāgosiṅga Sutta</em></a>, en el que cada discípulo dice quién podría iluminar el bosque de árboles sāla bajo la luna y el Buda los afirma a todos. Retomando el último punto de Bhante, ser heroicos, nos anima a apoyarnos mutuamente contribuyendo a la vida de nuestra Orden local, y cierra preguntando qué tipo de caminante del Dharma podría iluminar Valle de Bravo.</p>\n",
+   "cat_num": "LOC7199",
+   "centre": "",
+   "image": "/m/lM1MLBWXZ2ZH.jpg",
+   "speaker": "Suddhayu",
+   "title": "Illuminating the Wood - Iluminando el bosque - Suddhayu",
+   "tracks": [
+    {
+     "duration": 1746,
+     "title": "Project 2nd",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/b/z/OgUAw0Ls0dLN.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7201": {
+  "checked": "2026-11-12T05:22:00+00:00",
+  "include": false,
+  "pub": "2026-11-12T05:22:00.610836+00:00",
+  "reason": "Sprache en (default)",
+  "record": {
+   "blurb": "<!-- UPEKSHAMATI: English -->\n<p>Upekshamati takes up the convention's image of the shepherds' round dance through the story of his forty years in Triratna: discovering a sober joy in his first mettā bhāvanā at the London Buddhist Centre, learning to dance in communities and right livelihood businesses in England, and returning to Mexico after his ordination to teach others, inviting better dancers than himself. Reflecting on growing older in an ageing Order, he speaks of how the deaths of Order members help us prepare together for our own.</p>\n<p>Turning from the dance to the music, he suggests that Bhante's deepest gift was teaching us to hear the mysterious melody of the Dharma behind its doctrines and practices, which Bhante evokes in his talks on the White Lotus Sūtra, such as <a href=\"https://www.freebuddhistaudio.com/audio/details?num=96\"><em>The Drama of Cosmic Enlightenment</em></a>. Upekshamati closes with three questions he hopes to answer before he dies: how we know whether we, or others, are still listening to the music; what happens as more of us dance to different tunes; and how the Order might again draw new generations into the dance.</p>\n<hr>\n<!-- UPEKSHAMATI: Español -->\n<p>Upekshamati retoma la imagen de la convención, la danza en ronda de pastores, a través de la historia de sus cuarenta años en Triratna: el descubrimiento de una alegría sobria en su primera mettā bhāvanā en el London Buddhist Centre, el aprendizaje del baile en comunidades y negocios de sustento correcto en Inglaterra, y su regreso a México tras su ordenación para enseñar a otros, invitando a bailarines mejores que él. Al reflexionar sobre el envejecimiento en una Orden que envejece, habla de cómo la muerte de miembros de la Orden nos ayuda a prepararnos juntos para la nuestra.</p>\n<p>Pasando del baile a la música, sugiere que el regalo más profundo de Bhante fue enseñarnos a escuchar la misteriosa melodía del Dharma detrás de sus doctrinas y prácticas, que Bhante evoca en sus pláticas sobre el Sūtra del Loto Blanco, como <a href=\"https://www.freebuddhistaudio.com/audio/details?num=96\"><em>The Drama of Cosmic Enlightenment</em></a>. Upekshamati cierra con tres preguntas que espera responder antes de morir: cómo saber si nosotros, u otros, seguimos escuchando la música; qué pasa si cada vez más de nosotros bailamos a otros ritmos; y cómo la Orden podría volver a atraer al baile a las nuevas generaciones.</p>\n",
+   "cat_num": "LOC7201",
+   "centre": "",
+   "image": "/m/Aw0deNxC33t0.png",
+   "speaker": "Upekshamati",
+   "title": "Thoughts on the Sangha as Round Dance - Reflexiones sobre la Sangha como danza circular de pastores - Upekshamati",
+   "tracks": [
+    {
+     "duration": 2527,
+     "title": "Project 2nd",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/f/d/wG0vsO6t0RkI.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7203": {
+  "checked": "2026-11-12T05:22:00+00:00",
+  "include": false,
+  "pub": "2026-11-12T05:22:00.610836+00:00",
+  "reason": "Sprache en (default)",
+  "record": {
+   "blurb": "<!-- PARAMI: English -->\n<p>On the anniversary of Bhante's death, and introduced by Subhuti, who recalls nearly fifty years of friendship and her life of service to the Order, Parami turns from the dance to its companion talk, <em>The Nucleus of a New Society</em>, from Bhante's <a href=\"https://www.freebuddhistaudio.com/series/details?num=X16\"><em>Buddhism for Today and Tomorrow</em></a> series, speaking not about the nucleus but to it, since we are that nucleus. Sharing how these talks first drew her to the Glasgow Buddhist Centre in 1977, she explores Bhante's vision of the Order as a spiritual community with the bodhisattva ideal at its heart, its harmony a differentiated unity, like a choir, rather than uniformity.</p>\n<p>Reflecting on how her understanding of the bodhicitta has changed, Parami speaks of the koan of holding a boundless wish to liberate all beings alongside the endlessness of saṃsāra, and of opening to the golden light, the consciousness Bhante felt had founded the Order through him. She closes by recounting how Bhante told her he had given the Order the trikāya, Amitābha, the thousand-armed Avalokiteśvara and Padmasambhava, and invites us to accept this gift as a living nucleus offering its blessings to a troubled world.</p>\n<hr>\n<!-- PARAMI: Español -->\n<p>En el aniversario de la muerte de Bhante, y presentada por Subhuti, quien recuerda casi cincuenta años de amistad y su vida de servicio a la Orden, Parami pasa de la danza a la plática que la acompaña, <em>The Nucleus of a New Society</em>, de la serie <a href=\"https://www.freebuddhistaudio.com/series/details?num=X16\"><em>Buddhism for Today and Tomorrow</em></a> de Bhante, hablando no sobre el núcleo sino al núcleo, porque nosotros somos ese núcleo. Al compartir cómo estas pláticas la llevaron por primera vez al Centro Budista de Glasgow en 1977, explora la visión de Bhante de la Orden como una comunidad espiritual con el ideal del bodhisattva en su corazón, cuya armonía es una unidad diferenciada, como un coro, y no uniformidad.</p>\n<p>Al reflexionar sobre cómo ha cambiado su comprensión del bodhicitta, Parami habla del koan de sostener el deseo ilimitado de liberar a todos los seres junto con la naturaleza interminable del saṃsāra, y de abrirnos a la luz dorada, la conciencia que Bhante sentía que había fundado la Orden a través de él. Cierra contando cómo Bhante le dijo que había dado a la Orden el trikāya, Amitābha, Avalokiteśvara de mil brazos y Padmasambhava, y nos invita a aceptar este regalo como un núcleo vivo que ofrece sus bendiciones a un mundo conflictivo.</p>",
+   "cat_num": "LOC7203",
+   "centre": "",
+   "image": "/m/Hz1LIrkMeNQJ.png",
+   "speaker": "Parami",
+   "title": "The Gift of the Three Kayas - El Regalo de los Tres Kayas - Parami",
+   "tracks": [
+    {
+     "duration": 4274,
+     "title": "Project 1st",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/e/p/DCrKbBw1EAPh.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC721": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
