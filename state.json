@@ -16546,6 +16546,50 @@
    "year": 1997
   }
  },
+ "LOC7212": {
+  "checked": "2026-11-13T05:20:24+00:00",
+  "include": false,
+  "pub": "2026-11-13T05:20:24.469305+00:00",
+  "reason": "Sprache sv (tagged)",
+  "record": {
+   "blurb": "Viryabodhi presenterar de tre beskyddarna Avalokiteshvara, Manjushri och Vajrapani, som f&ouml;rkroppsligar upplysningens tre egenskaper: medk&auml;nsla, visdom och energi. Med utg&aring;ngspunkt i Triratna och Sangharakshitas undervisning beskrivs bodhisattvorna som aspekter av det upplysta sinnet, gjorda synliga f&ouml;r f&ouml;rest&auml;llningsf&ouml;rm&aring;gan. Viryabodhi tar upp gestalternas ikonografi och historiska r&ouml;tter, och belyser hur vi kan f&ouml;rh&aring;lla oss till bodhisattvorna i v&aring;r egen &ouml;vning. F&ouml;redraget gavs p&aring; Stockholms Buddhistcenter, 2 november 2026.",
+   "cat_num": "LOC7212",
+   "centre": "Stockholm",
+   "image": "/m/efsePFCCDdqz.jpg",
+   "speaker": "Viryabodhi",
+   "title": "Upplysningens Ansikten – Del 1",
+   "tracks": [
+    {
+     "duration": 2632,
+     "title": "Upplysningens ansikten – Del 1",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/k/j/EIvW2UJRru24.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7213": {
+  "checked": "2026-11-13T05:20:24+00:00",
+  "include": false,
+  "pub": "2026-11-13T05:20:24.469305+00:00",
+  "reason": "Sprache sv (tagged)",
+  "record": {
+   "blurb": "Viryabodhi presenterar Gr&ouml;na Tara, som st&aring;r f&ouml;r aktiv medk&auml;nsla och or&auml;ddhet. Enligt traditionen f&ouml;ddes hon ur t&aring;rarna hos medk&auml;nslans bodhisattva, Avalokiteshvara, n&auml;r han sk&aring;dade ut &ouml;ver v&auml;rldens lidande. Viryabodhi beskriver Taras ursprung och mantra, och hennes ikonografi med utg&aring;ngspunkt i fyra olika bilder p&aring; buddhabordet. Genom att kontemplera och meditera &ouml;ver dessa bodhisattvor kan vi f&aring; kontakt med upplysningens olika egenskaper och b&ouml;rja odla dem inom oss. F&ouml;redraget gavs p&aring; Stockholms Buddhistcenter 9 november 2026.",
+   "cat_num": "LOC7213",
+   "centre": "Stockholm",
+   "image": "/m/efsePFCCDdqz.jpg",
+   "speaker": "Viryabodhi",
+   "title": "Upplysningens Ansikten – Del 2",
+   "tracks": [
+    {
+     "duration": 2335,
+     "title": "Upplysningens Ansikten – Del 2",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/o/x/MSFtzTVdHJFP.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,

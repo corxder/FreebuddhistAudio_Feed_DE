@@ -126,6 +126,8 @@ LOC7198	The Four Maras and the Order - Los Cuatro Maras y la Orden - Subhuti	Spr
 LOC7199	Illuminating the Wood - Iluminando el bosque - Suddhayu	Sprache en (default)
 LOC7201	Thoughts on the Sangha as Round Dance - Reflexiones sobre la Sangha como danza circular de pastores - Upekshamati	Sprache en (default)
 LOC7203	The Gift of the Three Kayas - El Regalo de los Tres Kayas - Parami	Sprache en (default)
+LOC7212	Upplysningens Ansikten – Del 1	Sprache sv (tagged)
+LOC7213	Upplysningens Ansikten – Del 2	Sprache sv (tagged)
 LOC738	Tiratana Vandana (Rezitation in Pali mit deutscher Übersetzung)	Genre ausgeschlossen: Chanting und Rituale (deutsch)
 M37	Loving Kindness Meditation (Mettā Bhāvanā)	Sprache en (default)
 OM879	Sangharakshita’s Gift	Sprache en (tagged)
