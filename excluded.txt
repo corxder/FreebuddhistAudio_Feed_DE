@@ -128,6 +128,7 @@ LOC7201	Thoughts on the Sangha as Round Dance - Reflexiones sobre la Sangha como
 LOC7203	The Gift of the Three Kayas - El Regalo de los Tres Kayas - Parami	Sprache en (default)
 LOC7212	Upplysningens Ansikten – Del 1	Sprache sv (tagged)
 LOC7213	Upplysningens Ansikten – Del 2	Sprache sv (tagged)
+LOC7215	El Dr Ambedkar	Sprache es (tagged)
 LOC738	Tiratana Vandana (Rezitation in Pali mit deutscher Übersetzung)	Genre ausgeschlossen: Chanting und Rituale (deutsch)
 M37	Loving Kindness Meditation (Mettā Bhāvanā)	Sprache en (default)
 OM879	Sangharakshita’s Gift	Sprache en (tagged)

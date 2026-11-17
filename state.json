@@ -16590,6 +16590,28 @@
    "year": 2026
   }
  },
+ "LOC7215": {
+  "checked": "2026-11-17T05:19:26+00:00",
+  "include": false,
+  "pub": "2026-11-17T05:19:26.610121+00:00",
+  "reason": "Sprache es (tagged)",
+  "record": {
+   "blurb": "Esta charla conmemora el aniversario de la hist&oacute;rica conversi&oacute;n masiva al budismo liderada por el doctor B. R. Ambedkar el 14 de octubre de 1956 en la India. En este evento, 380 000 personas abandonaron el opresivo sistema de castas hind&uacute; para unirse al budismo. Esta charla, ofrecida por Vajranatha en el Centro Budista de Valencia en 2026, destaca la figura de Ambedkar como emancipador de los dalits y su b&uacute;squeda de una v&iacute;a espiritual basada en la igualdad y la justicia social.",
+   "cat_num": "LOC7215",
+   "centre": "Valencia",
+   "image": "/images/people/vajranatha.jpg",
+   "speaker": "Vajranatha",
+   "title": "El Dr Ambedkar",
+   "tracks": [
+    {
+     "duration": 1878,
+     "title": "El Dr Ambedkar",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/d/s/VDnr8jDNhpBH.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
