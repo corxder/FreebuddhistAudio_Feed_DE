@@ -16612,6 +16612,50 @@
    "year": 2026
   }
  },
+ "LOC7216": {
+  "checked": "2026-11-18T05:22:35+00:00",
+  "include": false,
+  "pub": "2026-11-18T05:22:35.269149+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "Descubre una inspiradora charla de Acintyakumar sobre el trascendental legado del Dr. Ambedkar y el budismo. En este audio escuchar&aacute;s c&oacute;mo su visi&oacute;n transform&oacute; la pol&iacute;tica, la educaci&oacute;n y la lucha contra las opresiones de casta en la India. Adem&aacute;s, se revelan conmovedoras an&eacute;cdotas personales sobre sus 22 votos, los retiros comunitarios y la b&uacute;squeda de una verdadera igualdad universal.",
+   "cat_num": "LOC7216",
+   "centre": "Valencia",
+   "image": "/images/default-square.jpg",
+   "speaker": "Acintyakumar",
+   "title": "La Importancia Del Dr Ambedkar En Mi Vida",
+   "tracks": [
+    {
+     "duration": 2129,
+     "title": "La importancia del Dr Ambedkar en mi vida",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/p/k/dOZxgRiZ9Hmw.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
+ "LOC7217": {
+  "checked": "2026-11-18T05:22:35+00:00",
+  "include": false,
+  "pub": "2026-11-18T05:22:35.269149+00:00",
+  "reason": "Sprache es (tagged)",
+  "record": {
+   "blurb": "Esta charla ofrece una profunda reflexi&oacute;n sobre la sangha (la comunidad espiritual) como pilar fundamental en el budismo. Analiza c&oacute;mo cultivar relaciones basadas en la amistad espiritual y el Dharma para superar el sufrimiento, sanar las divisiones de una sociedad polarizada y trascender la mentalidad de grupo. Se abordan claves pr&aacute;cticas para la armon&iacute;a comunitaria, el cuidado de la palabra y el compromiso &eacute;tico frente a los desaf&iacute;os cotidianos y sociales actuales.",
+   "cat_num": "LOC7217",
+   "centre": "Valencia",
+   "image": "/m/2QztKOl9sMXA.jpg",
+   "speaker": "Silamani",
+   "title": "La Joya de la Sangha",
+   "tracks": [
+    {
+     "duration": 3711,
+     "title": "La joya de la Sangha",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/p/h/W38X9niEIgPz.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
