@@ -16656,6 +16656,28 @@
    "year": 2026
   }
  },
+ "LOC7218": {
+  "checked": "2026-11-23T14:56:06+00:00",
+  "include": false,
+  "pub": "2026-11-23T14:56:06.946092+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "How can Buddhist practice shape the world we live in? This talk explores turning dissatisfaction into change, building community and right livelihood, avoiding anger and burnout, all as ways of planting a &quot;garden in the wilderness&quot;.",
+   "cat_num": "LOC7218",
+   "centre": "North London",
+   "image": "/images/default-square.jpg",
+   "speaker": "Akshayapradipa",
+   "title": "The World As Practice: Buddhist Activism and Alternative Ways of Living",
+   "tracks": [
+    {
+     "duration": 2220,
+     "title": "The World as Practice: Buddhist Activism and Alternative Ways of Living",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/a/e/2QSbOVxRx3qa.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
