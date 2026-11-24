@@ -16678,6 +16678,28 @@
    "year": 2026
   }
  },
+ "LOC7219": {
+  "checked": "2026-11-24T14:59:14+00:00",
+  "include": false,
+  "pub": "2026-11-24T14:59:14.053075+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "Jnanavaca and Maitreyabandhu explore the spiritual and transcendental nature of the Buddhist Sangha and how history can be understood not just as a succession of political events and social changes but as the development and emergence of new higher states of consciousness and being. Highlighting the relationship between the Dharmakaya and the individual life through Sangharakshita&#039;s &#039;poetic metaphysics&#039; of the Gestalt, they discuss the Buddhist vision of Sangha and its relevance for us now.",
+   "cat_num": "LOC7219",
+   "centre": "Adhisthana",
+   "image": "/m/8V8znX0XHEh3.jpg",
+   "speaker": "Maitreyabandhu",
+   "title": "The Stability of Society and the Spiritual Community",
+   "tracks": [
+    {
+     "duration": 4288,
+     "title": "The Stability of Society and the Spiritual Community",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/z/h/IOqtqTYwIFO9.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
