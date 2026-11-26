@@ -16700,6 +16700,28 @@
    "year": 2026
   }
  },
+ "LOC7220": {
+  "checked": "2026-11-26T14:01:37+00:00",
+  "include": false,
+  "pub": "2026-11-26T14:01:37.526915+00:00",
+  "reason": "Sprache en (tagged)",
+  "record": {
+   "blurb": "As part of the cycle of talks revisiting Bhante&#039;s 1976 lecture Blueprint for a New World, Parami explores ethics - how do we tread lightly on the earth living in an urban 21st century environment",
+   "cat_num": "LOC7220",
+   "centre": "Glasgow",
+   "image": "/m/Hz1LIrkMeNQJ.png",
+   "speaker": "Parami",
+   "title": "Treading Lightly On the Tarmac",
+   "tracks": [
+    {
+     "duration": 2604,
+     "title": "Treading Lightly on the Tarmac",
+     "url": "https://www.freebuddhistaudio.com/talks/mp3/h/k/Gtgf9TRyY4gw.mp3"
+    }
+   ],
+   "year": 2026
+  }
+ },
  "LOC734": {
   "checked": "2026-10-20T13:03:58+00:00",
   "include": true,
